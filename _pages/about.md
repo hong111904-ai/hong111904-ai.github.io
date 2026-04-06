@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xander Yi Profile"
+title: "Xander Yi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,7 @@ I am currently working on subspace policy optimization in reinforcement learning
 Feel free to contact me.
 
 Email: hong111904@gmail.com
+
 GitHub: https://github.com/hong111904-ai
 
 

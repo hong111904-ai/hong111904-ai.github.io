@@ -24,13 +24,13 @@ repository               : "hong111904-ai/hong111904-ai.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xander Yi(伊泓铮)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Undergraduate student in Mathematics at Xi’an Jiaotong University."
+  location         : "Berkeley"
+  employer         : "Xi'an Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hong111904@gmail.com" 
 
   # Academic websites
   academia         : # URL
